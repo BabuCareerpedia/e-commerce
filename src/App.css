@@ -1,0 +1,11 @@
+.career-column:hover + .grid-container {
+  display: block;
+}
+
+.grid-container {
+  display: none;
+}
+
+*{
+  background-color: brown;
+}
